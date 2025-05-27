@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b68b33be5eb025e6",
+            "id": "71a3287e09d66062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ループはクラス化のチャンスでは？"
+            }
+          },
+          {
+            "id": "1b66c24d2efb9d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pythonにおけるログの設定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pythonにおけるログの設定"
+            }
+          },
+          {
+            "id": "2d5295af6fc88acd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +47,41 @@
               },
               "icon": "lucide-file",
               "title": "memo"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1001378e82822e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68b33be5eb025e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pythonのロギングのベストプラクティスは？"
+            }
+          },
+          {
+            "id": "2f35a0f53de49550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Literature Note/クラス化によるループ処理のリファクタリング.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "クラス化によるループ処理のリファクタリング"
             }
           }
         ]
@@ -53,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#archived",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,23 +243,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b68b33be5eb025e6",
+  "active": "2d5295af6fc88acd",
   "lastOpenFiles": [
-    "Zettelkasten/Literature Note/Pythonにおけるファイル操作の設計パターン.md",
+    "Pythonにおけるログの設定.md",
+    "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
     "Zettelkasten/Literature Note/クラス化によるループ処理のリファクタリング.md",
+    "Zettelkasten/Fleeting Note/アプリ上のファイル操作処理方法は？.md",
+    "Zettelkasten/テンプレート.md",
+    "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
+    "よく使うマークダウン記法.md",
     "Zettelkasten/Literature Note/ストレージ種別を切り替え可能なファイル操作パターン.md",
+    "Zettelkasten/Fleeting Note/memo.md",
+    "Zettelkasten/Literature Note/Pythonにおけるファイル操作の設計パターン.md",
     "Zettelkasten/Literature Note/リファクタリングに取り組む順序.md",
     "Zettelkasten/Literature Note/リファクタリングの第一歩──変数宣言を参照箇所へ近づけて認知負荷を下げる.md",
     "Zettelkasten/Literature Note/疑似グローバル変数のContextへの段階的移行.md",
     "Zettelkasten/Literature Note/Michael Feathers の “最小のテスト挿入口 (Seam).md",
     "Zettelkasten/Literature Note/疑似グローバル変数に関するリファクタリング.md",
     "Zettelkasten/Literature Note/Contextに格納する情報の判断基準.md",
-    "Zettelkasten/Fleeting Note/memo.md",
-    "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
     "Zettelkasten/Fleeting Note/リファクタリングで最初にすることは？.md",
-    "Zettelkasten/Fleeting Note/アプリ上のファイル操作処理方法は？.md",
-    "Zettelkasten/テンプレート.md",
-    "よく使うマークダウン記法.md",
     "Zettelkasten/Permanent Note",
     "Zettelkasten/Literature Note",
     "Zettelkasten/Fleeting Note",
