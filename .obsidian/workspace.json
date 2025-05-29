@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71a3287e09d66062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ループはクラス化のチャンスでは？"
-            }
-          },
-          {
-            "id": "1b66c24d2efb9d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pythonにおけるログの設定.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pythonにおけるログの設定"
-            }
-          },
-          {
             "id": "2d5295af6fc88acd",
             "type": "leaf",
             "state": {
@@ -48,40 +20,54 @@
               "icon": "lucide-file",
               "title": "memo"
             }
+          },
+          {
+            "id": "a0025d2908982e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Literature Note/機能共通化における仕様差問題と設計原則の実用的適用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "機能共通化における仕様差問題と設計原則の実用的適用"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1001378e82822e52",
         "type": "tabs",
         "children": [
           {
-            "id": "b68b33be5eb025e6",
+            "id": "39a16b9c4e2bfafa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
+                "file": "Zettelkasten/Fleeting Note/ファイル削除機能の共通化 - ログ仕様差による設計課題.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pythonのロギングのベストプラクティスは？"
+              "title": "ファイル削除機能の共通化 - ログ仕様差による設計課題"
             }
           },
           {
-            "id": "2f35a0f53de49550",
+            "id": "66afa8fc38b6552b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Note/クラス化によるループ処理のリファクタリング.md",
+                "file": "Zettelkasten/Literature Note/論理的凝集のリファクタリング可否の判断基準.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラス化によるループ処理のリファクタリング"
+              "title": "論理的凝集のリファクタリング可否の判断基準"
             }
           }
         ]
@@ -243,17 +229,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d5295af6fc88acd",
+  "active": "39a16b9c4e2bfafa",
   "lastOpenFiles": [
-    "Pythonにおけるログの設定.md",
-    "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
     "Zettelkasten/Literature Note/クラス化によるループ処理のリファクタリング.md",
+    "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
+    "Zettelkasten/Literature Note/機能共通化における仕様差問題と設計原則の実用的適用.md",
+    "Zettelkasten/Fleeting Note/memo.md",
+    "Zettelkasten/Literature Note/Pythonにおけるログの設定.md",
+    "Zettelkasten/Literature Note/論理的凝集のリファクタリング可否の判断基準.md",
+    "Zettelkasten/Fleeting Note/ファイル削除機能の共通化 - ログ仕様差による設計課題.md",
     "Zettelkasten/Fleeting Note/アプリ上のファイル操作処理方法は？.md",
     "Zettelkasten/テンプレート.md",
     "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
     "よく使うマークダウン記法.md",
     "Zettelkasten/Literature Note/ストレージ種別を切り替え可能なファイル操作パターン.md",
-    "Zettelkasten/Fleeting Note/memo.md",
     "Zettelkasten/Literature Note/Pythonにおけるファイル操作の設計パターン.md",
     "Zettelkasten/Literature Note/リファクタリングに取り組む順序.md",
     "Zettelkasten/Literature Note/リファクタリングの第一歩──変数宣言を参照箇所へ近づけて認知負荷を下げる.md",
