@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Fleeting Note/memo.md",
+                "file": "Zettelkasten/Literature Note/Pythonにおけるログの設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "Pythonにおけるログの設定"
             }
           },
           {
             "id": "a0025d2908982e58",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "処理監視とエラー検知の実装パターン調査.md",
+                "bFile": "処理監視とエラー検知の実装パターン調査.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 処理監視とエラー検知の実装パターン調査"
+            }
+          },
+          {
+            "id": "66afa8fc38b6552b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Note/機能共通化における仕様差問題と設計原則の実用的適用.md",
+                "file": "処理監視とエラー検知の実装パターン調査.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "機能共通化における仕様差問題と設計原則の実用的適用"
+              "title": "処理監視とエラー検知の実装パターン調査"
             }
           }
         ],
@@ -57,20 +71,35 @@
             }
           },
           {
-            "id": "66afa8fc38b6552b",
+            "id": "2043a4d28b933d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Note/論理的凝集のリファクタリング可否の判断基準.md",
+                "file": "Zettelkasten/Fleeting Note/オブジェクト指向における実行順序制御の実装パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "論理的凝集のリファクタリング可否の判断基準"
+              "title": "オブジェクト指向における実行順序制御の実装パターン"
+            }
+          },
+          {
+            "id": "ad57586ac46fe209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Fleeting Note/処理実行の監視・エラー検知パターンの調査.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "処理実行の監視・エラー検知パターンの調査"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#archived",
+                "query": "tag:#obser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,19 +258,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39a16b9c4e2bfafa",
+  "active": "a0025d2908982e58",
   "lastOpenFiles": [
-    "Zettelkasten/Literature Note/クラス化によるループ処理のリファクタリング.md",
-    "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
     "Zettelkasten/Literature Note/機能共通化における仕様差問題と設計原則の実用的適用.md",
+    "AI時代の車載組み込みセキュリティエンジニア キャリア戦略.md",
+    "よく使うマークダウン記法.md",
     "Zettelkasten/Fleeting Note/memo.md",
-    "Zettelkasten/Literature Note/Pythonにおけるログの設定.md",
+    "処理監視とエラー検知の実装パターン調査.md",
+    "Zettelkasten/Fleeting Note/処理実行の監視・エラー検知パターンの調査.md",
+    "Zettelkasten/Literature Note/オブジェクト指向設計における実行制御の分離と実装パターン.md",
+    "Zettelkasten/Fleeting Note/オブジェクト指向における実行順序制御の実装パターン.md",
     "Zettelkasten/Literature Note/論理的凝集のリファクタリング可否の判断基準.md",
+    "Zettelkasten/Literature Note/Pythonにおけるログの設定.md",
+    "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
+    "Zettelkasten/Fleeting Note/リファクタリングで最初にすることは？.md",
     "Zettelkasten/Fleeting Note/ファイル削除機能の共通化 - ログ仕様差による設計課題.md",
     "Zettelkasten/Fleeting Note/アプリ上のファイル操作処理方法は？.md",
+    "Zettelkasten/Fleeting Note/Pythonのロギングのベストプラクティスは？.md",
+    "Zettelkasten/Literature Note/クラス化によるループ処理のリファクタリング.md",
     "Zettelkasten/テンプレート.md",
-    "Zettelkasten/Fleeting Note/ループはクラス化のチャンスでは？.md",
-    "よく使うマークダウン記法.md",
     "Zettelkasten/Literature Note/ストレージ種別を切り替え可能なファイル操作パターン.md",
     "Zettelkasten/Literature Note/Pythonにおけるファイル操作の設計パターン.md",
     "Zettelkasten/Literature Note/リファクタリングに取り組む順序.md",
@@ -250,14 +285,12 @@
     "Zettelkasten/Literature Note/Michael Feathers の “最小のテスト挿入口 (Seam).md",
     "Zettelkasten/Literature Note/疑似グローバル変数に関するリファクタリング.md",
     "Zettelkasten/Literature Note/Contextに格納する情報の判断基準.md",
-    "Zettelkasten/Fleeting Note/リファクタリングで最初にすることは？.md",
     "Zettelkasten/Permanent Note",
     "Zettelkasten/Literature Note",
     "Zettelkasten/Fleeting Note",
     "Zettelkasten",
     "2025-05-13.md",
     "無題のファイル.canvas",
-    "Pasted image 20250513220710.png",
-    "create a link.md"
+    "Pasted image 20250513220710.png"
   ]
 }
